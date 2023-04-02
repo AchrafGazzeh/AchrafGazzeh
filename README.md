@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AchrafGazzeh
-- 👀 I’m interested in Robotics, Autonomous Driving and Embedded Software
-- 🌱 Skills: C,C++,Python, ROS, Linux
+- 👀 I’m interested in Software Engineering, Cloud & Iot
+- 🌱 Skills: C,C++,Python, AWS, Flask
 - 📫 Linkedin: https://www.linkedin.com/in/achrafgazzeh
 
 <!---
