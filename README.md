@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AchrafGazzeh
 - 👀 I’m interested in Software Engineering, Cloud & Iot
-- 🌱 Skills: C,C++,Python, AWS, Flask
+- 🌱 Skills: Python, C++, AWS, Flask, Django, Docker
 - 📫 Linkedin: https://www.linkedin.com/in/achrafgazzeh
 
 <!---
